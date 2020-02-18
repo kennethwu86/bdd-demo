@@ -1,0 +1,23 @@
+{
+  "name": "bdd-demo",
+  "version": "1.0.0",
+  "description": "BDD style testing with Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethwu86/bdd-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethwu86/bdd-demo/issues"
+  },
+  "homepage": "https://github.com/kennethwu86/bdd-demo#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5",
+    "expect": "^25.1.0"
+  }
+}
